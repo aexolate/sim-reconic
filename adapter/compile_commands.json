@@ -1,0 +1,29 @@
+[
+  {
+    "arguments": [
+      "/usr/local/bin/g++",
+      "-O3",
+      "-I/home/jonask/Repos/simbricks/lib",
+      "-c",
+      "-o",
+      "xsim_adapter.o",
+      "xsim_adapter.cc"
+    ],
+    "directory": "/home/jonask/Repos/vivado_jpgd/simbricks",
+    "file": "/home/jonask/Repos/vivado_jpgd/simbricks/xsim_adapter.cc",
+    "output": "/home/jonask/Repos/vivado_jpgd/simbricks/xsim_adapter.o"
+  },
+  {
+    "arguments": [
+      "/usr/local/bin/gcc",
+      "-O3",
+      "-c",
+      "-o",
+      "xsim_dpi.o",
+      "xsim_dpi.c"
+    ],
+    "directory": "/home/jonask/Repos/vivado_jpgd/simbricks",
+    "file": "/home/jonask/Repos/vivado_jpgd/simbricks/xsim_dpi.c",
+    "output": "/home/jonask/Repos/vivado_jpgd/simbricks/xsim_dpi.o"
+  }
+]
