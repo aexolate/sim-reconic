@@ -1,0 +1,6 @@
+[submodule "reconic"]
+	path = reconic
+	url = https://github.com/Xilinx/RecoNIC
+[submodule "simbricks"]
+	path = simbricks
+	url = https://github.com/simbricks/simbricks
